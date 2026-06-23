@@ -1,0 +1,27 @@
+﻿,Line #,Name,Description,Designator,Revision ID,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,,"TNPW040210K0DEED, 10",,"10K, 10K_1, 10k_2, 10k_3, 10k_4, 10k_6, 10k_7, 10k_8, 10K_9, 10K_10",CMP-2002-01682-1,Up to date,10,Vishay,TNPW040210K0DEED,Volume Production,,,,
+,,3290W-1-203,,"20k, 20k_1",CMP-2000-05581-2,Up to date,2,Bourns,3290W-1-203,Volume Production,Arrow Electronics,3290W-1-203,0,0
+,,100K 1% 0603(1608),100K 0.1W 1% 0603 (1608 Metric)  SMD,"100K, 100K_1, 100k_2, 100k_3, 100k_4",CMP-1012-00736-1,Up to date,5,Vishay,CRCW0603100KFKEC,Volume Production,Arrow Electronics,CRCW0603100KFKEC,0.0005,0.0025
+,,AC1210KKX7R0BB104,CAP CER 0.1UF 100V X7R 1210,"100nF, 100nF_2, 100nF_4",CMP-03422-000642-1,Up to date,3,Yageo Group,AC1210KKX7R0BB104,Volume Production,Newark,AC1210KKX7R0BB104,0.186,0.558
+,,824032815,"Tvs Diode, Bidir, 5V, Dfn1610 Rohs Compliant: Yes","D1_TVS, D2_TVS",CMP-03913-133963841-2,Up to date,2,Wurth Elektronik,824032815,Volume Production,Newark,824032815,1.45,2.9
+,,LM393D,IC VOLT COMPARATOR DUAL LP 8SOIC,"U_1, U2, U4",CMP-12132-000003-1,Up to date,3,STMicroelectronics,LM393D,Volume Production,Avnet,LM393D,0.21158,0.63474
+,,SN74AHC1G02DCKR,"Single 2-Input Positive-NOR Gate, DCK0005A, LARGE T&R",U3,CMP-0859-00418-3,Up to date,1,Texas Instruments,SN74AHC1G02DCKR,Volume Production,Mouser,595-SN74AHC1G02DCKR,0.1,0.1
+,,RN73C1E100RBTDF,Res Thin Film 0402 100Ω 0.1% 1/16W 10ppm/°C Molded SMD,"100R, 100R_1",CMP-2002-03415-2,Up to date,2,TE Connectivity,RN73C1E100RBTDF,Volume Production,Mouser,279-RN73C1E100RBTDF,0.72,1.44
+,,CRCW020139K0JNED,,"39K, 39K_1",CMP-2004-00545-1,Up to date,2,Vishay,CRCW020139K0JNED,Volume Production,Mouser,71-CRCW020139K0JNED,0.24,0.48
+,,MCU08050D1004BP500,RES 1.05K OHM 0.5% 1/5W 0805,1M,CMP-02407-001361-1,Up to date,1,Vishay,MCU08050D1004BP500,Volume Production,,,,
+,,Capacitor 10µF +/-40% 6.3V 0402,"Chip Capacitor, 10µF +/-40%, 6.3V, 0402, Thickness 0.6 mm","10uF, C, C_2, C1",CMP-001-00074-3,Up to date,4,Murata,GRM155R60J106ME15D,Volume Production,Mouser,81-GRM155R60J106ME5D,0.062,0.62
+,,Capacitor 100nF +/-20% 25V 0402,"Chip Capacitor, 100nF +/-20%, 25V, 0402, Thickness 0.6 mm","100nF_1, 100nF_3, 100nF_5, 100nF_6",CMP-001-00065-4,Up to date,4,Yageo Group,CC0402KRX5R8BB104,Volume Production,Arrow Electronics,CC0402KRX5R8BB104,0.0013,0.0052
+,,820K 5% 1206(3216),820K 0.25W 5% 1206 (3216 Metric)  SMD,820K,CMP-1014-00144-1,Up to date,1,Yageo Group,RC1206JR-07820KL,Volume Production,Mouser,603-RC1206JR-07820KL,0.1,0.1
+,,BSS138,MOSFET N-CH 50V 220MA SOT-23,"Q1, Q2",CMP-07173-000101-1,Up to date,2,onsemi,BSS138,Volume Production,Mouser,512-BSS138,0.31,0.62
+,,SI2319CDS-T1-GE3,"P-Channel (D-S) MOSFET, 40 V, -55 to 150 degC, 3-Pin SOT23 (TO-236), RoHS, Tape and Reel",Q3,CMP-2000-07053-1,Up to date,1,Vishay,SI2319CDS-T1-GE3,Not Recommended for New Design,Mouser,781-SI2319CDS-T1-GE3,1.08,1.08
+,,MF-MSMF110/24X,"PTC Resettable Fuse, 24 V, 20 A, -40 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel",1.2A / 2.2A,CMP-005-00008-3,Up to date,1,Bourns,MF-MSMF110/24X,Volume Production,,,,
+,,AP2012EC,LED RED CLEAR SMD,D1,CMP-44529-000070-1,Up to date,1,Kingbright,AP2012EC,Volume Production,Mouser,604-AP2012EC,0.23,0.23
+,,1N4148,DIODE GEN PURP 100V 200MA DO35,D2,CMP-07163-000046-1,Up to date,1,onsemi,1N4148,Volume Production,Arrow Electronics,1N4148,0.0045,0.0045
+,,824551121,TVS diode [Würth Elektronik] 824551121 TVS diode,D5,CMP-03913-71101758-2,Up to date,1,Wurth Elektronik,824551121,Volume Production,Mouser,710-824551121,1.71,1.71
+,,WP934CB/GD,"Right Angle LED Indicator, 62.5 mW, 25 mA, -40 to 85 degC, 2-Pin THD, RoHS, Bulk",DG1,CMP-2000-07417-1,Up to date,1,Kingbright,WP934CB/GD,Volume Production,Mouser,604-WP934CB/GD,0.53,0.53
+,,BM06B-ZESS-TBT(LF)(SN),CONN HEADER SMD 6POS 1.5MM,J1,CMP-17439-000569-1,Up to date,1,JST,BM06B-ZESS-TBT(LF)(SN),Volume Production,Mouser,306-BM06BZESSTBTLFSN,0.85,0.85
+,,ALZ11B12,"LZ Relays, 12 V Coil Voltage, 400 mW Nominal Operating Power, -40 to 85 degC, 8-Pin LZ, Carton, Case, RoHS",K1,CMP-1503-00243-1,Up to date,1,Panasonic,ALZ11B12,Volume Production,,,,
+,,200R2J,200R 0.063W 5% 0402 (1005 Metric)  SMD,R1,CMP-009-00079-2,Up to date,1,,,,,,,
+,,LM1117IMP-5.0-NOPB,"Low-Dropout Linear Regulator, 800 mA, -40 to 125 degC, 4-Pin SOT-223 (DCY), Green (RoHS & no Sb/Br), Tape and Reel",U1,CMP-019-00021-3,Up to date,1,,,,,,,
+,,5003,"Test Point, Orange, Height 4.6 mm, Tail Length 3 mm, 1-Pin THD, RoHS","TP1, TP2, TP9, TP10, TP11, TP12, TP17, TP18, TP22, TP23, TP24, TP25",CMP-002-00037-2,Up to date,12,Keystone,5003,Volume Production,DigiKey,36-5003-ND,0.224,2.688
+,,9775036360R,"WA-SMSR SMT Steel Spacer, Reverse M3 non Stop","MP1, MP2, MP3, MP4",CMP-03913-78872569-2,Up to date,4,Wurth Elektronik,9775036360R,Volume Production,Mouser,710-9775036360R,1.09,4.36
