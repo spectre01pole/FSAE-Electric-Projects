@@ -1,0 +1,15 @@
+﻿,Line #,Name,Description,Designator,Revision ID,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,,Resistor 1K +/-5 % 0402 63 mW,"Chip Resistor, 1 kOhms, +/-5 %, 63 mW, -55 to 155 degC, 0402",1K_base,CMP-009-00157-3,Up to date,1,Vishay,CRCW04021K00JNED,Volume Production,Newark,CRCW04021K00JNED,0.002,0.002
+,,Capacitor 1µF +/-20% 10V 0402,"Chip Capacitor, 1µF +/-20%, 10V, 0402, Thickness 0.6 mm",1uF_conv,CMP-001-00063-3,Up to date,1,Yageo Group,CC0402KRX5R6BB105,Volume Production,Mouser,603-CC402KRX5R6BB105,0.11,0.11
+,,4K7 5% 1210(3225),4K7 0.5W 5% 1210 (3225 Metric)  SMD,4.7k,CMP-1015-00090-1,Up to date,1,Vishay,CRCW12104K70JNEA,Volume Production,Arrow Electronics,CRCW12104K70JNEA,0.0085,0.0085
+,,TNPW040210K0DEED,,"10K, 10K_2",CMP-2002-01682-1,Up to date,2,Vishay,TNPW040210K0DEED,Volume Production,,,,
+,,Capacitor 0.1 uF +/- 5% 16 V 0402,"Chip Capacitor, 0.1 uF, +/- 5%, 16 V, 0402 (1005 Metric)","100nF, 100nF_2",CMP-001-00001-6,Up to date,2,Murata,GRM155R71C104JA88D,Not Recommended for New Design,DigiKey,490-6327-1-ND,0.1,0.2
+,,Capacitor 330µF +/-20% 6.3V D3,"Molded Tantalum Polymer Capacitor, 330 uF, +/- 20%, 6.3 V, -55 to 105 degC, 2-Pin SMD, RoHS, Tape and Reel",330uF,CMP-001-00058-3,Up to date,1,Panasonic,6TPF330M9L,Volume Production,DigiKey,P16258CT-ND,2.98,2.98
+,,GRT31C5C1E104FA02L,Multi-Layer Ceramic Capacitor 100nF 25V C0G ±1% 1206 Emboss T/R,C1_100nF,CMP-06035-026891-1,Up to date,1,Murata,GRT31C5C1E104FA02L,Volume Production,Mouser,81-GRT31C5C1E104FA2L,0.99,0.99
+,,CAP_1uF-16V-10%-0201,1µF ±20% 16V Ceramic Capacitor X5R 0201 (0603 Metric),C2_1uF,CMP-001-00116-1,Up to date,1,Samsung Electro-Mechanics,CL03A105MO3NRNH,Volume Production,DigiKey,1276-6798-1-ND,0.22,0.22
+,,BZD27C5V1P-E3-08,DIODE ZENER 5.1V 800MW DO219AB,Drect,CMP-02541-000027-1,Up to date,1,Vishay,BZD27C5V1P-E3-08,Volume Production,Newark,BZD27C5V1P-E3-08,0.749,3.745
+,,90136-2106,CONN HEADER R/A 6POS 2.54MM,InputConnector,CMP-04776-000069-1,Up to date,1,Molex,90136-2106,Volume Production,Newark,90136-2106,0.153,0.153
+,,22-04-1021,"KK Mini-Latch Straight Male, PCB Header, Through Hole, 1 Rows, 2 Contacts, 2.5mm Pitch","RTDinput, SpeakerOutput",CMP-04776-000257-2,Up to date,2,Molex,22-04-1021,Volume Production,RS (Formerly Allied Electronics),22-04-1021,0.09,0.18
+,,2N2222,"Low Power Bipolar NPN Transistor, 30 V, -65 to 200 degC, 3-Pin TO-18, RoHS, Bulk",NPN,CMP-2000-05237-1,Up to date,1,Multicomp,2N2222,Volume Production,Newark,2N2222,0.725,0.725
+,,LM7805CT,"Positive Voltage Regulator, 5 V, 1 A, -40 to 125 degC, 3-Pin TO-220, RoHS, Tube",5VREG,CMP-2000-04938-1,Up to date,1,onsemi,LM7805CT,Obsolete,,,,
+,,ATTINY85V-10SHR,"ATTINY85V-10SHR 8-bit Microcontrollers - MCU 10MHz, EIAJ SOIC Ind Temp, Green T&R",ATtinyMC,CMP-00252-77762337-1,Up to date,1,Microchip,ATTINY85V-10SHR,Volume Production,,,,
