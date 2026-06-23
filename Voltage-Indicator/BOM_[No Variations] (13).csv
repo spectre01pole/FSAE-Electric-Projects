@@ -1,0 +1,18 @@
+﻿,Line #,Name,Description,Designator,Revision ID,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,,CRCW08051K00JNEC,"RES Thick Film, 1kΩ, 5%, 0.125W, 200ppm/°C, 0805",1K_1,CMP-02407-005778-1,Up to date,1,Vishay,CRCW08051K00JNEC,Volume Production,Mouser,71-CRCW08051K00JNEC,0.1,0.1
+,,MCU08050D1004BP500,RES 1.05K OHM 0.5% 1/5W 0805,1M_1,CMP-02407-001361-1,Up to date,1,Vishay,MCU08050D1004BP500,Volume Production,,,,
+,,4K7 5% 1210(3225),4K7 0.5W 5% 1210 (3225 Metric)  SMD,4.7K,CMP-1015-00090-1,Up to date,1,Vishay,CRCW12104K70JNEA,Volume Production,Arrow Electronics,CRCW12104K70JNEA,0.0085,0.0085
+,,BZD27C5V1P-E3-08,DIODE ZENER 5.1V 800MW DO219AB,5.1V_ZD,CMP-02541-000027-1,Up to date,1,Vishay,BZD27C5V1P-E3-08,Volume Production,Arrow Electronics,BZD27C5V1P-E3-08,0.6772,0.6772
+,,TNPW121010K0BEEN,,"10K_1, 10K_2, 10K_3",CMP-2005-00857-1,Up to date,3,Vishay,TNPW121010K0BEEN,Volume Production,Mouser,71-TNPW121010K0BEEN,1.78,5.34
+,,45K3 1% 2512(6432),45K3 1W 1% 2512 (6432 Metric)  SMD,45.3K,CMP-1018-00697-1,Up to date,1,Vishay,CRCW251245K3FKEG,Volume Production,Mouser,71-CRCW251245K3FKEG,0.42,0.42
+,,CRCW121082K0FKEA,RES SMD 205K OHM 1% 1/2W 2203,82K_1,CMP-1015-00726-2,Up to date,1,Yageo Group,RC1210FR-0782KL,Volume Production,Mouser,603-RC1210FR-0782KL,0.13,0.13
+,,TNPW0805100KDEEA,,"100K_1, 100K_2",CMP-2001-04708-1,Up to date,2,Vishay,TNPW0805100KDEEA,Volume Production,Mouser,71-TNPW0805100KDEEA,0.14,0.28
+,,C0805C104K5RACTU,CAP CER 0.1UF 50V X7R 0805,"100nF_1, 100nF_2",CMP-2007-00279-2,Up to date,2,Yageo Group,C0805C104K5RACTU,Volume Production,RS (Formerly Allied Electronics),C0805C104K5RACTU,0.02,0.04
+,,220R 1% 2010(5025),220R 0.75W 1% 2010 (5025 Metric)  SMD,220Ohm,CMP-1017-00433-1,Up to date,1,Vishay,CRCW2010220RFKEF,Volume Production,Mouser,71-CRCW2010220RFKEF,0.3,0.3
+,,LM2903BIDR,36V JI.3 DUAL COMPARATOR,CompUHVin,CMP-04896-000007-1,Up to date,1,Texas Instruments,LM2903BIDR,Volume Production,Mouser,595-LM2903BIDR,0.26,0.26
+,,2N7002H6327XTSA2,MOSFET N-CH 60V 0.3A SOT23,M2,CMP-32901-000180-1,Up to date,1,Infineon,2N7002H6327XTSA2,Volume Production,Newark,2N7002H6327XTSA2,0.292,0.292
+,,2N3904BU,"NPN General-Purpose Amplifier, 40 V VCEO, 0.2 A, -55 to 150 degC, 2-Pin TO-92, RoHS, Bulk",QP1,CMP-2000-04944-1,Up to date,1,onsemi,2N3904BU,Volume Production,Avnet,2N3904BU,0.18551,0.18551
+,,BC557BTF,"BC557BTF Small Signal Bipolar Transistor, 0.1A I(C), 45V V(BR)CEO, 1-Element, PNP, Silicon, TO-92",QP2,CMP-00278-84408945-1,Up to date,1,onsemi,BC557BTF,Volume Production,Mouser,512-BC557BTF,0.28,0.28
+,,Resistor 1K +/-5 % 0402 63 mW,"Chip Resistor, 1 kOhms, +/-5 %, 63 mW, -55 to 155 degC, 0402",1K,CMP-009-00157-3,Up to date,1,Bourns,CR0402-JW-102GLF,Volume Production,Arrow Electronics,CR0402-JW-102GLF,0.0014,112
+,,691213710003,"213 Series 5MM Pitch Straight, Pcb Terminal Block, Through Hole, 3 Way","HVbuckLV connect, TSconnect",CMP-1502-02527-3,Up to date,2,Wurth Elektronik,691213710003,Volume Production,Mouser,710-691213710003,1.5,3
+,,39-29-4069,39-29-4069 Conn Power HDR 6 POS 4.2mm Solder RA Thru-Hole 6 Terminal 1 Port Mini-Fit Jr™ Bag,REDconnect,CMP-00257-06821913-1,Up to date,1,Molex,39-29-4069,Volume Production,Arrow Electronics,0039294069,3.6752,3.6752
